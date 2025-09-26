@@ -1,0 +1,5 @@
+{
+  "name": "Video Game Catalog",
+  "description": "A responsive CRUD application to manage a personal collection of video games. It features real-time search, data visualization with charts, and the ability to export the catalog to a JSON file.",
+  "requestFramePermissions": []
+}
